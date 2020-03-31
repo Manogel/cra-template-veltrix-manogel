@@ -244,7 +244,7 @@ function SideNav({ location }) {
               <li className={activeRoute('icons-fontawesome')}>
                 <Link to="icons-fontawesome">Font Awesome</Link>
               </li>
-              <li className={activeRoute('icons-material')}>
+              <li className={activeRoute('icons-ion')}>
                 <Link to="icons-ion">Ion Icons</Link>
               </li>
               <li className={activeRoute('icons-themify')}>
